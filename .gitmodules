@@ -1,0 +1,3 @@
+[submodule "src/practicas/EjerciciosDeMaquetacion"]
+	path = src/practicas/EjerciciosDeMaquetacion
+	url = git@github.com:sinaigok/EjerciciosDeMaquetacion.git
